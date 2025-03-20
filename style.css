@@ -41,7 +41,7 @@
 }
 
 .search .search-box{
-    height: 55px;
+    height: 50px;
     margin: 45px 0;
     position: relative;
 }
@@ -58,7 +58,7 @@
 input, button, i{
     outline: none;
     border: none;
-    border-radius: 5px;
+    border-radius: 25px;
 }
 
 .search-box input{

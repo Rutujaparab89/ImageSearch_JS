@@ -13,8 +13,8 @@ const downloadImgBtn = lightBox.querySelector(".uil-import");
 
 //API Key,Pagination,searchTerm varibles
 // To make images dynamic we will use pexels API
-const apikey="NJxm9UXV16s2UprbkaJOdXFPZJV5zN798qhwoxEaMDgZJm9TvEhOMFMh";
-const perPage = 5;  //We'll load 15 images on every API calls
+const apikey="Your Api Key";
+const perPage = 10;  //We'll load 10 images on every API calls
 let currentPage = 1;   //Later,we'll increment the currentPage on load more button click
 let searchTerm = null;
 
